@@ -88,8 +88,3 @@ console.log(radiusArr.calculate(area))
 
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=HkWxvB1RJq0&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/HkWxvB1RJq0/0.jpg" width="750"
-alt="Higher-Order Functions ft. Functional Programming in JS Youtube Link"/></a>
