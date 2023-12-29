@@ -29,8 +29,3 @@
 
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=2WJL19wDH68&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/2WJL19wDH68/0.jpg" width="750"
-alt="JS Engine Exposed, Google's V8 Architecture in JS Youtube Link"/></a>
