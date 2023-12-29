@@ -126,8 +126,3 @@ Microtask Priority Visualization
 ![microtask 6 Demo](/assets/microtask6.gif)
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=8zKuNo4ay8E&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/8zKuNo4ay8E/0.jpg" width="750"
-alt="Asynchronous JavaScript & EVENT LOOP from scratch in JS Youtube Link"/></a>
