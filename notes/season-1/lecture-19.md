@@ -186,8 +186,3 @@ console.log(output); // ["Alok", "Ashish", "Ankit"]
 ```
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=zdp0zrpKzIE&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" target="_blank"><img src="https://img.youtube.com/vi/zdp0zrpKzIE/0.jpg" width="750"
-alt="map, filter & reduce Youtube Link"/></a>
